@@ -37,7 +37,7 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
             //  Inserção do DML
             
             Guid Adm, Cli, Blizzard, RockstarStudios;
-                        
+                                  
             modelBuilder.Entity<TipoUsuario>().HasData(
                 new TipoUsuario
                 {
@@ -46,8 +46,8 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
                 },
                 new TipoUsuario
                 {
-                    idTipoUsuario = Cli =  Guid.NewGuid(),
-                    titulo = "Cliente"                    
+                    idTipoUsuario = Cli = Guid.NewGuid(),
+                    titulo = "Cliente"
                 }
             );
 

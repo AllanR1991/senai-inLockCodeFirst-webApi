@@ -61,6 +61,7 @@ namespace senai_inLockCodeFirst_webApi.Repositories
         public void Cadastrar(Estudio novoEstudio)
         {
             // Adiciona este novoEstudio
+            //novoEstudio.idEstudio = Guid.NewGuid();
             ctx.Estudio.Add(novoEstudio);
 
             //Salva as informações para serem gravadas no banco de dados.

@@ -40,6 +40,6 @@ namespace senai_inLockCodeFirst_webApi.Domains
 
         //  Define a chave estrangeira
         [ForeignKey("idEstudio")]
-        public Estudio estudio { get;}
+        public Estudio estudio { get; set; }
     }
 }

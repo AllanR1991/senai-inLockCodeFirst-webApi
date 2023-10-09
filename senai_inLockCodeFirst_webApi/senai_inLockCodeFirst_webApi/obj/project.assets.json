@@ -7750,11 +7750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
+      "projectUniqueName": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\Senai-2SM\\API\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
       "projectName": "senai_inLockCodeFirst_webApi",
-      "projectPath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
+      "projectPath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\Senai-2SM\\API\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
       "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\obj\\",
+      "outputPath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\Senai-2SM\\API\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

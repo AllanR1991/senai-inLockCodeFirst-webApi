@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cj05vQgG+r4EdqB+rN+yFYqwgPPSRZJCJbZjhW9XOigdAMXcz7/sGcWto3/gi6PhGUpcNBxJ5XGAdVieQPPLJw==",
+  "dgSpecHash": "+tEZrpS9E3dNG6YavEMQDXIU8zcz5SseaAKQjsIKA6SxAX6BTxyadDjATZ6X+d1tzHZ9i6K8OOdAIpY2acvn3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
+  "projectFilePath": "C:\\Users\\allan\\OneDrive\\Documentos\\Projetos\\Senai-2SM\\API\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi\\senai_inLockCodeFirst_webApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\allan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

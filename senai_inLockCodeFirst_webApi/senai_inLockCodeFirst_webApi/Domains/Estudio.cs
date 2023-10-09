@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -17,6 +18,7 @@ namespace senai_inLockCodeFirst_webApi.Domains
     {
         //  Define a chave primária
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Guid idEstudio { get; set; }
 
         //  Define o nome da coluna e o tipo de dado
@@ -25,6 +27,7 @@ namespace senai_inLockCodeFirst_webApi.Domains
         [Required(ErrorMessage = "O nome do estúdio é obrigatório!")]
         public string nomeEstudio { get; set; }
 
-        public List<Jogo> jogo { get; set; }
+        //  ? permite nulo neste campo, fazendo com que no metodo post do controller não precise ser informado.
+        public List<Jogo>? jogo { get; set; }
     }
 }
